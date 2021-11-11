@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dtdet\\Source\\Repos\\u1148322\\PS3\\Formula\\Formula.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dtdet\\Source\\Repos\\u1148322\\PS3\\Formula\\Formula.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dtdet\\Source\\Repos\\u1148322\\PS3\\Formula\\Formula.csproj",
+        "projectName": "Formula",
+        "projectPath": "C:\\Users\\dtdet\\Source\\Repos\\u1148322\\PS3\\Formula\\Formula.csproj",
+        "packagesPath": "C:\\Users\\dtdet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dtdet\\Source\\Repos\\u1148322\\PS3\\Formula\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dtdet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

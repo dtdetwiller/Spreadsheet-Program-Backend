@@ -1,0 +1,9 @@
+C:\Users\dtdet\Source\Repos\u1148322\PS3\Formula\bin\Debug\netstandard2.0\Formula.deps.json
+C:\Users\dtdet\Source\Repos\u1148322\PS3\Formula\bin\Debug\netstandard2.0\Formula.dll
+C:\Users\dtdet\Source\Repos\u1148322\PS3\Formula\bin\Debug\netstandard2.0\Formula.pdb
+C:\Users\dtdet\Source\Repos\u1148322\PS3\Formula\obj\Debug\netstandard2.0\Formula.csproj.CoreCompileInputs.cache
+C:\Users\dtdet\Source\Repos\u1148322\PS3\Formula\obj\Debug\netstandard2.0\Formula.AssemblyInfoInputs.cache
+C:\Users\dtdet\Source\Repos\u1148322\PS3\Formula\obj\Debug\netstandard2.0\Formula.AssemblyInfo.cs
+C:\Users\dtdet\Source\Repos\u1148322\PS3\Formula\obj\Debug\netstandard2.0\Formula.dll
+C:\Users\dtdet\Source\Repos\u1148322\PS3\Formula\obj\Debug\netstandard2.0\Formula.pdb
+C:\Users\dtdet\Source\Repos\u1148322\PS3\Formula\bin\Debug\netstandard2.0\Formula.xml
